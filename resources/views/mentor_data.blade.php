@@ -106,7 +106,7 @@
 
                     <div class="card">
                         <div class="card-header"></div>
-                            <form  action="{{route('insert')}}" method="post" enctype="multipart/form-data">
+                
                                 @csrf
                                 <input type="hidden" name="_token" value="dWbESgNQf2KMYaAO5otzXp0bJDLNR1axvj4DRrjp">                                
                                 <div align="center">
