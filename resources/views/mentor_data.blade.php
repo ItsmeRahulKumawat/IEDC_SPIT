@@ -107,8 +107,6 @@
                     <div class="card">
                         <div class="card-header"></div>
                 
-                                @csrf
-                                <input type="hidden" name="_token" value="dWbESgNQf2KMYaAO5otzXp0bJDLNR1axvj4DRrjp">                                
                                 <div align="center">
                                 <p class="menu m-4">Mentor detail</p></div>
                                 <div class="row ml-5 mr-5">
@@ -243,7 +241,6 @@
                                     
                                     <div align="center"></div>
                     
-                            </form>
                         </div>
                     </div>
                 </div>
